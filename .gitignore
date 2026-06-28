@@ -1,7 +1,5 @@
 venv/
 __pycache__/
 *.pyc
-input.mp4
-output/
 *.pt
 .DS_Store
